@@ -4,4 +4,3 @@ class Book:
 		self.author = author
 		self.checkoutDate = checkoutDate
 		self.returnDate = returnDate
-	
